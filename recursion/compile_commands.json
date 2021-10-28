@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/parks/work/clang/recursion",
+  "command": "/usr/bin/cc    -o CMakeFiles/Recursion.dir/recursion.c.o -c /home/parks/work/clang/recursion/recursion.c",
+  "file": "/home/parks/work/clang/recursion/recursion.c"
+}
+]

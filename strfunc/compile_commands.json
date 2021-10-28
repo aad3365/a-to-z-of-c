@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/parks/work/clang",
+  "command": "/usr/bin/cc    -o CMakeFiles/Strfuncs.dir/strfunc.c.o -c /home/parks/work/clang/strfunc.c",
+  "file": "/home/parks/work/clang/strfunc.c"
+}
+]
