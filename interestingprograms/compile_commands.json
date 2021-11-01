@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/parks/work/clang/interestingprograms",
+  "command": "/usr/bin/cc    -o CMakeFiles/InterestingPrograms.dir/interesting.c.o -c /home/parks/work/clang/interestingprograms/interesting.c",
+  "file": "/home/parks/work/clang/interestingprograms/interesting.c"
+}
+]

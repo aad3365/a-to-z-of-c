@@ -1,5 +1,3 @@
-recursion/CMakeFiles/
-recursion/.cache/
-strfunc/CMakeFiles/
-strfunc/.cache/
+**/CMakeFiles/
+**/.cache/
 
